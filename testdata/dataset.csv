@@ -1,0 +1,11 @@
+country,team,length,part
+india,men,148,yes
+india,women,120,yes
+nepal,men,149,No
+nepal,women,,yes
+bhutan,men,139,yes
+bhutan,women,121,no
+bangladesh,men,142,yes
+bangladesh,men,139,no
+bangladesh,women,130,yes
+india,women,128,yes
